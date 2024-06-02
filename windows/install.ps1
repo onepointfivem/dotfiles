@@ -1,0 +1,16 @@
+winget install -e --id AgileBits.1Password
+winget install -e --id ShareX.ShareX
+winget install -e --id Discord.Discord
+winget install -e --id Flow-Launcher.Flow-Launcher
+winget install -e --id Git.Git
+winget install -e --id Microsoft.Teams
+winget install -e --id OBSProject.OBSStudio
+winget install -e --id JetBrains.PyCharm.Professional
+winget install -e --id Obsidian.Obsidian
+winget install -e --id Microsoft.PowerToys
+winget install -e --id Google.GoogleDrive
+winget install -e --id MacType.MacType
+winget install -e --id Microsoft.VisualStudioCode
+winget install -e --id Logitech.OptionsPlus
+winget install -e --id voidtools.Everything
+winget install -e --id Rclone.Rclone
