@@ -1,0 +1,1 @@
+rclone sync "C:\Users\camil\OneDrive\Desktop\camila\notes" gdrive:"60 Anotacoes" --exclude-from C:\Users\camil\OneDrive\Desktop\camila\dotfiles\windows\rclone\exclude.txt --log-file=C:\Users\camil\OneDrive\Desktop\camila\rclone.txt
